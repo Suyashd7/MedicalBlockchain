@@ -16,3 +16,6 @@ API Endpoints:
 /connect_node: Connects additional nodes to the blockchain network.
 /replace_chain: Replaces the current chain with the longest valid chain.
 This implementation is designed for educational and experimental purposes in managing patient-doctor permissions using blockchain technology.
+
+
+Verifiaction skillchain = skillchain-verify-q6voup.
